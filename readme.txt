@@ -49,6 +49,7 @@ By the way, we are watching over your website, right after step 1 !
 For news and updates follow us on Facebook and Twitter: 
 
 http://facebook.com/Jumpple
+
 http://twitter.com/Jumpple
 
 == Installation ==
