@@ -12,7 +12,7 @@ Stable tag: trunk
 = General Information =
 
 Get the most advanced protection for your website now with Jumpple. With a click of a button your website, blog or online store are instantly monitored. Receive real time notifications if something is wrong with your website.
-It’s a free and easy way to protect your online presence.
+It's a free and easy way to protect your online presence.
 
 = How it works in 3 easy steps: =
 
@@ -20,7 +20,7 @@ It’s a free and easy way to protect your online presence.
 2. Check your email for your account details.
 3. Go to Jumpple.com and choose your notification types.
 
-That’s it. You are protected.
+That's it. You are protected.
 By the way, we are watching over your website, right after step 1 !
 
 = WHY USE JUMPPLE VS. OTHER SOLUTIONS: =
@@ -95,7 +95,6 @@ Jumpple supports the following notifications:
 
 1. Jumpple dashboard registration.
 2. Jumpple dashboard settings.
-3. Jumpple badge.
 
 == Requirements ==
 
