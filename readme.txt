@@ -1,5 +1,6 @@
 === Jumpple - Your website keeper ===
 Contributors: Jumpple.com
+Donate link:
 Author URI: http://www.jumpple.com
 Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, offline, analytics, blog, backup, facebook, twitter, realtime, notification, security scan, authorization, hack
 Requires at least: 2.7
