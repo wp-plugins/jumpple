@@ -51,7 +51,6 @@ For news and updates follow us on Facebook and Twitter:
 http://facebook.com/Jumpple
 http://twitter.com/Jumpple
 
-
 == Installation ==
 
 1. Download the Jumpple zip file. From your Wordpress dashboard->Plugins->Add new->Upload, choose the Jumpple zip file, Press "Install now".
