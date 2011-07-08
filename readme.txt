@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, offline, analytics, blog, backup, facebook, twitter, realtime, notification, security scan, authorization, hack
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, security, analytics, blog, facebook, twitter, realtime, securityscan, authorization, dashboard, websitedefender, database, plugin, permissions, secure, access, statistics, views
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: trunk
