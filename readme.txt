@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, security, analytics, blog, facebook, twitter, realtime, securityscan, authorization, dashboard, websitedefender, database, plugin, permissions, secure, access, statistics, views
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, offline, analytics, blog, backup, facebook, twitter, realtime, notification, security scan, authorization, hack, dashboard
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: trunk
@@ -59,7 +59,7 @@ http://twitter.com/Jumpple
 1. To activate the plugin, go to Plugins and press Activate under the Jumpple plugin.
 1. Open the configuration panel for Jumpple on your WordPress Dashboard under Settings. (See screen shot.)
 1. Register with your email address.(See screen shot.)
-1. You can choose your Jumpple badge settings. 
+1. You can choose your Jumpple Seal settings. 
 1. Check your email for login details to your Jumpple account.
 1. Log in to your jummple.com account to set up notifications and manage your account.
 
@@ -87,9 +87,9 @@ Jumpple supports the following notifications:
 
 * Log in to your jumpple account www.jumpple.com 
 
-= What is the Jumpple badge ? =
+= What is the Jumpple Seal ? =
 
-* The Jumpple badge displays a small badge on your website letting your users know your website is monitored and protected by Jumpple, making them so your users will feel more secure and trust your website. 
+* The Jumpple seal displays a small seal on your website letting your users know your website is monitored and protected by Jumpple, making them so your users will feel more secure and trust your website. 
 
 == Screenshots ==
 

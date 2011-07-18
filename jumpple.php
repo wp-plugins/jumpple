@@ -55,7 +55,7 @@ function jumpple_badge() {
 
 		$style = $pos[ get_option( 'jumpple-position',  'topright' ) ];
 
-		echo '<a href="http://www.jumpple.com/" target="_blank"><img src="' . plugins_url( 'badge.png', __FILE__ ) . '" style="position: fixed; ' . $style . '" alt="" /></a>';
+		echo '<a href="http://www.jumpple.com/" target="_blank"><img src="' . plugins_url( 'seal.png', __FILE__ ) . '" style="position: fixed; ' . $style . '" alt="" /></a>';
 	}
 }
 
@@ -295,20 +295,20 @@ function jumpple_badge_option() {
     <?php settings_fields( 'jumpple' ); ?>
     <table class="form-table"> 
         <tr valign="top">
-        <th scope="row">Show Badge:</th>
+        <th scope="row">Show Seal:</th>
         <td>	<select name="jumpple-badge">
 			<option value="true">Show</option>
 			<option value="false"<?php if( get_option( 'jumpple-badge',  'true' ) == 'false' ) echo ' selected="selected"'; ?>>Don't Show</option>
 		</select>
 	</td>
-        <td><strong>Why do I need the Jumpple badge?</strong><br />
-The Jumpple badge displays a small badge on your website letting your users know<br />
+        <td><strong>Why do I need the Jumpple Seal?</strong><br />
+The Jumpple Seal displays a small seal on your website letting your users know<br />
 your website is monitored and protected by Jumpple, adding a sense of security and trust for your website.
         </td>
         </tr>
 
 <tr valign="top">
-        <th scope="row">Please select the location of the Jumpple badge:</th>
+        <th scope="row">Please select the location of the Jumpple Seal:</th>
         <td>	<select name="jumpple-position">
 			<option value="topright">Top right</option>
 			<option value="downright"<?php if( get_option( 'jumpple-position',  'topright' ) == 'downright' ) echo ' selected="selected"'; ?>>Down right</option>
