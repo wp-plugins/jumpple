@@ -100,7 +100,7 @@ Jumpple supports the following notifications:
 
 = How can I add more WebSites to my Jumpple account ? =
 
-* Log in to your jumpple account www.jumpple.com and press "UPGRADE" on the top-right corner.
+* Log in to your jumpple account www.jumpple.com and press "UPGRADE" on the top-right corner - choose one of the relevant plans.
 
 == Screenshots ==
 
