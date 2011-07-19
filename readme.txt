@@ -59,7 +59,7 @@ http://twitter.com/Jumpple
 1. To activate the plugin, go to Plugins and press Activate under the Jumpple plugin.
 1. Open the configuration panel for Jumpple on your WordPress Dashboard under Settings. (See screen shot.)
 1. Register with your email address.(See screen shot.)
-1. You can choose your Jumpple Seal settings.(see FAQ abot the Jumpple Seal) 
+1. You can choose your Jumpple Seal settings.(see FAQ about the Jumpple Seal) 
 1. Check your email for login details to your Jumpple account.
 1. Log in to your jummple.com account to set up notifications and manage your account.
 
