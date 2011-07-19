@@ -95,6 +95,7 @@ Jumpple supports the following notifications:
 
 * Let the users know your website is protected with Jumpple!
 * Making your users feel more secure and trust your website.
+* Increase Sales!
 * Discount on all Jumpple plans -  Put the Jumpple Seal and   soon You will find out :) .
 
 = How can I add more WebSites to my Jumpple account ? =
