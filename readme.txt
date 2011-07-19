@@ -89,7 +89,17 @@ Jumpple supports the following notifications:
 
 = What is the Jumpple Seal ? =
 
-* The Jumpple seal displays a small seal on your website letting your users know your website is monitored and protected by Jumpple, making them so your users will feel more secure and trust your website. 
+* The Jumpple seal displays a small seal on your website letting your users know your website is monitored and protected by Jumpple.
+
+= Why do I need the Jumpple Seal ? =
+
+* Let the users know your website is protected with Jumpple!
+* Making your users feel more secure and trust your website.
+* Discount on all Jumpple plans -  Put the Jumpple Seal and   soon You will find out :) .
+
+= How can I add more WebSites to my Jumpple account ? =
+
+* Log in to your jumpple account www.jumpple.com and press "UPGRADE" on the top-right corner.
 
 == Screenshots ==
 
