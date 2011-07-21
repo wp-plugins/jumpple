@@ -21,7 +21,7 @@ It's a free and easy way to protect your online presence.
 3. Go to Jumpple.com and choose your notification types.
 
 That's it. You are protected.
-By the way, we are watching over your website, right after step 1 !
+(By the way, we are watching over your website, right after step 1 ! )
 
 = WHY USE JUMPPLE VS. OTHER SOLUTIONS: =
 
