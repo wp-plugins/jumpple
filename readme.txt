@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, offline, analytics, blog, backup, facebook, twitter, realtime, notification, security scan, authorization, hack, dashboard, spam
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, website monitoring tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, offline, analytics, blog, backup, facebook, twitter, realtime, notification, security scan, authorization, hack, dashboard, spam, spam protection, captcha, anti-spam, email, Akismet, wpmu, form, fast secure, buddypress,  wordpressmu, protect, notification, affiliate, landing page, authentication, comment, comments, post, posts, e-Commerce, iphone notification, performance, event, advertising, SEO, Adsense, 
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: trunk
@@ -39,7 +39,7 @@ That's it. You are protected.
 
 * MONITOR SOCIAL NETWORKS: Use your Jumpple account to monitor all your online presence. Monitor your website, blog, online store, Facebook page, Twitter page or any other type.
 
-* MARKETING CAMPAIGNS: Are you an affiliate? Are you using SEO? PPC? Landing pages? Jumpple saves you money! If something is wrong we will notify you immediately.
+* MARKETING CAMPAIGNS: Are you an affiliate? Are you using SEO? PPC? Landing pages? Jumpple Saves You Money! $$$ If something is wrong we will notify you immediately.
 
 * ECOMMERCE PROTECTION: Your peace of mind that we are keeping an eye on your online business. Your security for your business.
 
@@ -102,6 +102,15 @@ Jumpple supports the following notifications:
 
 * Log in to your jumpple account www.jumpple.com and press "UPGRADE" on the top-right corner - choose one of the relevant plans.
 
+= Where can I find news and updates? =
+
+* For news and updates follow us on Facebook and Twitter: 
+
+http://facebook.com/Jumpple
+
+http://twitter.com/Jumpple
+
+
 == Screenshots ==
 
 1. Jumpple dashboard registration.
@@ -114,7 +123,7 @@ Wordpress >= 2.7
 == Changelog ==
 
 = 1.0 =
-* Initial version
+* (26 Jun 2011) Initial Release
 
 == Upgrade Notice ==
 = 1.0 =
