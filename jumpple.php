@@ -303,7 +303,7 @@ function jumpple_badge_option() {
 	</td>
         <td><strong>Why do I need the Jumpple Seal?</strong><br />
 The Jumpple Seal displays a small seal on your website letting your users know<br />
-your website is monitored and protected by Jumpple!, adding a sense of security and trust for your website.
+your website is monitored and protected by Jumpple!, This adds a proven sense of security and trust to your website.
         </td>
         </tr>
 
