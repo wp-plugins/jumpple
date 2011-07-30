@@ -69,6 +69,11 @@ function jumpple_footer() {
 </div>
 
 <p>
+<strong>Time to Upgrade<br />
+<a href="https://jumpple.com/upgrade" target="_blank">Go to Jumpple</a> - Time to upgrade,i have more than one website to monitor.</strong>
+</p>
+
+<p>
 <strong>Check out another great plugin!<br />
 <a href="http://wordpress.org/extend/plugins/sweetcaptcha-revolutionary-free-captcha-service/" target="_blank">SweetCaptcha</a> - Free designed captcha service</strong>
 </p>
