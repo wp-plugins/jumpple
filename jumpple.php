@@ -70,7 +70,7 @@ function jumpple_footer() {
 
 <p>
 <strong>Do you have more than one website to monitor?<br />
-<a href="https://jumpple.com/upgrade" target="_blank">Go to Jumpple</a> - Time to upgrade.</strong>
+<a href="https://jumpple.com/upgrade" target="_blank">Take me to Jumpple</a> - Time to upgrade.</strong>
 </p>
 
 <p>
