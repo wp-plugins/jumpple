@@ -63,7 +63,7 @@ function jumpple_footer() {
 ?>
 
 <div id="share">
-<a name="fb_share" class="fb-share" type="button_count" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.jumpple.com&amp;t=Check%20this%20cool%20service%20out!">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+<a name="fb_share" class="fb-share" type="button_count" href="#" onclick="window.open( 'http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.jumpple.com&amp;t=Check%20this%20cool%20service%20out!', 'sharer', 'toolbar=0, status=0, width=626, height=436' ); return false;"><img src="<?php echo plugins_url( 'fbshare.jpg', __FILE__ ); ?>" alt="Share" style="vertical-align: middle;" /></a>
 
 <a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="Check this cool service out!" data-via="jumpple">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 </div>
@@ -72,7 +72,7 @@ function jumpple_footer() {
 <strong>Do you have more than one website to monitor?<br />
 <a href="https://jumpple.com/upgrade" target="_blank">Take me to Jumpple</a> - Time to upgrade.</strong>
 </p>
-
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
 <strong>Check out another great plugin!<br />
 <a href="http://wordpress.org/extend/plugins/sweetcaptcha-revolutionary-free-captcha-service/" target="_blank">SweetCaptcha</a> - Free designed captcha service</strong>
