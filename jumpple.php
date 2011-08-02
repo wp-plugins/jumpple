@@ -70,7 +70,7 @@ function jumpple_footer() {
 
 <p>
 <strong>Do you need to manage all of your websites under one account?<br />
-<a href="https://jumpple.com/upgrade" target="_blank">Take me to Jumpple</a> - Time to upgrade.</strong>
+<a href="https://jumpple.com/upgrade" target="_blank">Jumpple on!</a> - Time to upgrade.</strong>
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
