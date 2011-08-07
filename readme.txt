@@ -31,8 +31,6 @@ That's it. You are protected.
 
 * INSTANT PROTECTION: Your website is monitored as soon as you register.
 
-* STAY UPDATED ON THE GO: View the current status of all your monitored websites on your iPhone.
-
 * INCREASE UPTIME AND CONVERSION: With real time notifications you make sure your website is ALWAYS ON and your users get the best possible experience.
 
 * MULTIPLE NOTIFICATION OPTIONS: Choose how you want to be notified, Jumpple supports: Email, SMS, Skype, Google chat and using the Jumpple iPhone app.
@@ -55,13 +53,30 @@ http://twitter.com/Jumpple
 == Installation ==
 
 1. Download the Jumpple zip file. From your Wordpress dashboard->Plugins->Add new->Upload, choose the Jumpple zip file, Press "Install now".
+
+
 1. Or from your dashboard go to Plugins->Add new->Search for "Jumpple", and press Install now.
-1. To activate the plugin, go to Plugins and press Activate under the Jumpple plugin.
+
+
+1. Activate the plugin through the Plugins menu in WordPress
+
+
 1. Open the configuration panel for Jumpple on your WordPress Dashboard under Settings. (See screen shot.)
+
+
 1. Register with your email address.(See screen shot.)
-1. You can choose your Jumpple Seal settings.(see FAQ about the Jumpple Seal) 
+
+
+1. You can choose your Jumpple Seal settings.
+(see FAQ about the Jumpple Seal)
+
+ 
 1. Check your email for login details to your Jumpple account.
+
+
 1. Log in to your jummple.com account to set up notifications and manage your account.
+
+
 
 == Frequently Asked Questions ==
 
