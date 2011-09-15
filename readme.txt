@@ -117,6 +117,11 @@ Jumpple supports the following notifications:
 
 * Log in to your jumpple account www.jumpple.com and press "UPGRADE" on the top-right corner - choose one of the relevant plans.
 
+= I'm getting "The address is already in use..."
+
+That means that we already have you registration details
+Please contact us at support@jumpple.com and we will guide you through the process.
+
 = Where can I find news and updates? =
 
 * For news and updates follow us on Facebook and Twitter: 
