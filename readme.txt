@@ -1,4 +1,4 @@
-=== Jumpple - Your website keeper ===
+=== Jumpple - Your website monitor ===
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com

@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Jumpple
-Description: Jumpple is your website Keeper - this plugin will notify you if something is wrong with your site. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
+Description: Jumpple is your website monitor - this plugin will notify you if something is wrong with your site. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
 Version: 1.0.0
 Requires at least: 2.7
 Tested up to: 3.2
