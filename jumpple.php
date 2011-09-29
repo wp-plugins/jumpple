@@ -74,7 +74,7 @@ function jumpple_footer() {
 </p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <p>
-<strong>Need to block SPAM?? Check out the sweetest designed CAPTCHA service ever! <br />
+<strong>Need to block SPAM? Check out the sweetest designed CAPTCHA service ever! <br />
 <a href="http://wordpress.org/extend/plugins/sweetcaptcha-revolutionary-free-captcha-service/" target="_blank">SweetCaptcha</a> - Free designed captcha service</strong>
 </p>
 
