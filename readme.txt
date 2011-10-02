@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, monitoring tool, all in one, hits, 
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, monitoring tool, all in one, hits, widget, 
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: trunk
