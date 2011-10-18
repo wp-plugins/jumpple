@@ -65,7 +65,7 @@ function jumpple_footer() {
 <div id="share">
 <a name="fb_share" class="fb-share" type="button_count" href="#" onclick="window.open( 'http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.jumpple.com&amp;t=Check%20this%20cool%20service%20out!', 'sharer', 'toolbar=0, status=0, width=626, height=436' ); return false;"><img src="<?php echo plugins_url( 'fbshare.jpg', __FILE__ ); ?>" alt="Share" style="vertical-align: middle;" /></a>
 
-<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="Check this cool service out!" data-via="jumpple">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<a href="http://twitter.com/share" class="twitter-share-button" data-count="none" data-text="Check out this cool service!" data-via="jumpple">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 </div>
 
 <p>
