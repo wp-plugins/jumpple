@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site monitoring, monitoring tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, offline, analytics, blog, backup, facebook, twitter, realtime, notification, security scan, authorization, hack, Adwords, spam, protect, captcha, anti-spam, email, wpmu, form, fast secure, buddypress,  wordpressmu, notification, affiliate, landing page, authentication, comment, comments, posts, post, e-Commerce, advertising, SEO, plugin, content, links, iPhone, iPad, Android, page, sidebar,
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site scan, monitor tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, url scan, analytics, blog, backup, realtime, notification, scan, authorization, hack, Adwords, spam, protect, captcha, anti-spam, email, wpmu, form, fast secure, buddypress,  wordpressmu, notification, affiliate, landing page, authentication, comment, comments, posts, post, e-Commerce, advertising, SEO, plugin, content, links, iPhone, iPad, Android, page, sidebar, permissions, seal,
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: trunk
@@ -11,6 +11,7 @@ Stable tag: trunk
 
 = General Information =
 
+Ultimate Wordpress plugin - security scan widget!
 Get the most advanced protection for your website now with Jumpple. With a click of a button your website, blog or online store are instantly monitored. Receive real time notifications if something is wrong with your website.
 It's a free and easy way to protect your online presence.
 
@@ -21,17 +22,20 @@ It's a free and easy way to protect your online presence.
 3. Go to Jumpple.com and choose your notification types.
 
 That's it. You are protected.
-(By the way, we are watching over your website, right after step 1 ! )
+(By the way, we scan your website, right after step 1 ! )
 
 = WHY USE JUMPPLE VS. OTHER SOLUTIONS: =
 
 * FREE SIGNUP: Free sign up for a Jumpple web monitoring account.
+  (security monitor on your dashboard , admin protection.)
 
 * NO INSTALLATION REQUIRED: Jumpple does not require any installation or special integration. All you need to provide is your website URL.
 
 * INSTANT PROTECTION: Your website is monitored as soon as you register.
+(You will get an email notification if something is wrong)
 
 * INCREASE UPTIME AND CONVERSION: With real time notifications you make sure your website is ALWAYS ON and your users get the best possible experience.
+(Ultimate security)
 
 * MULTIPLE NOTIFICATION OPTIONS: Choose how you want to be notified, Jumpple supports: Email, SMS, Skype, Google chat and using the Jumpple iPhone app.
 
@@ -133,8 +137,7 @@ http://twitter.com/Jumpple
 
 == Screenshots ==
 
-1. Jumpple dashboard registration.
-2. Jumpple dashboard settings.
+1. Jumpple dashboard settings.
 
 == Requirements ==
 
