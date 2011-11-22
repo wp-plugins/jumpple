@@ -1,4 +1,4 @@
-=== Jumpple - Your website monitor ===
+=== Jumpple - Monitor and scan Your website ===
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
@@ -11,9 +11,10 @@ Stable tag: trunk
 
 = General Information =
 
-Ultimate Wordpress plugin - security scan widget!
+Ultimate Wordpress monitor plugin - monitor, scan and seal widget!
 Get the most advanced protection for your website now with Jumpple. With a click of a button your website, blog or online store are instantly monitored. Receive real time notifications if something is wrong with your website.
 It's a free and easy way to protect your online presence.
+(we scan and monitor your website 24/7!)
 
 = How it works in 3 easy steps: =
 
@@ -22,12 +23,12 @@ It's a free and easy way to protect your online presence.
 3. Go to Jumpple.com and choose your notification types.
 
 That's it. You are protected.
-(By the way, we scan your website, right after step 1 ! )
+(By the way, we scan and monitor your website, right after step 1 ! )
 
 = WHY USE JUMPPLE VS. OTHER SOLUTIONS: =
 
 * FREE SIGNUP: Free sign up for a Jumpple web monitoring account.
-  (security monitor on your dashboard , admin protection.)
+  (monitor and scan on your dashboard , admin protection.)
 
 * NO INSTALLATION REQUIRED: Jumpple does not require any installation or special integration. All you need to provide is your website URL.
 
@@ -35,17 +36,17 @@ That's it. You are protected.
 (You will get an email notification if something is wrong)
 
 * INCREASE UPTIME AND CONVERSION: With real time notifications you make sure your website is ALWAYS ON and your users get the best possible experience.
-(Ultimate security)
+(Ultimate content security)
 
 * MULTIPLE NOTIFICATION OPTIONS: Choose how you want to be notified, Jumpple supports: Email, SMS, Skype, Google chat and using the Jumpple iPhone app.
 
-* MONITOR SOCIAL NETWORKS: Use your Jumpple account to monitor all your online presence. Monitor your website, blog, online store, Facebook page, Twitter page or any other type.
+* MONITOR & SCAN SOCIAL NETWORKS: Use your Jumpple account to monitor & scan all your online presence. Monitor your website, blog, online store, Facebook page, Twitter page or any other type.
 
 * MARKETING CAMPAIGNS: Are you an affiliate? Are you using SEO? PPC? Landing pages? Jumpple Saves You Money! $$$ If something is wrong we will notify you immediately.
 
 * ECOMMERCE PROTECTION: Your peace of mind that we are keeping an eye on your online business. Your security for your business.
 
-* AND MUCH MORE: Learn more about Jumpple web monitoring service and additional features at http://jumpple.com/tour
+* AND MUCH MORE: Learn more about Jumpple web monitoring and scan service and additional features at http://jumpple.com/tour
 
 
 For news and updates follow us on Facebook and Twitter: 
@@ -86,44 +87,51 @@ http://twitter.com/Jumpple
 
 = What is Jumpple? =
 
-* Jumpple is an online web monitoring service. It monitors your website or blog to make sure the site is up and running. Jumpple does not require any installation or special integration. In fact, all you need to do to get started is to provide your website address URL - we do the rest.
+* Jumpple is an online web monitor & scan service. It monitors your website or blog to make sure the site is up and running. Jumpple does not require any installation or special integration. In fact, all you need to do to get started is to provide your website address URL - we do the rest.
 
 = Who is it for? =
 
 * Jumpple is intended for anyone who owns a website, no matter big or small. Whether it is a blog, online store or corporate website, Jumpple gives you the peace of mind that comes with knowing that someone is constantly watching your website.
-
 = How does Jumpple alert me ? =
 
 Jumpple supports the following notifications:
 
-* Email.
+* FREE Email.
 * Google talk.
 * Skype.
-* iPhone app (coming soon to the app store!).
-* SMS messages (upgrade to a plan).
+* FREE iPhone app (http://itunes.apple.com/il/app/jumpple/id449833948?mt=8).
+* SMS messages (on the paid plans).
 
 = How do I set up notifications ? =
 
-* Log in to your jumpple account www.jumpple.com 
+* Log in to your jumpple account www.jumpple.com ,change the monitor or notifications
+  settings as you like.
+  (see screenshot-2)
 
 = What is the Jumpple Seal ? =
 
-* The Jumpple seal displays a small seal on your website letting your users know your website is monitored and protected by Jumpple.
+* The Jumpple seal displays a small seal on your website letting your users know your website
+  is monitored,scan and protected by Jumpple.
 
 = Why do I need the Jumpple Seal ? =
 
-* Let the users know your website is protected with Jumpple!
+* Let the users know your website is protected and monitor by Jumpple!
 * Making your users feel more secure and trust your website.
 * Increase Sales!
-* Discount on all Jumpple plans -  Put the Jumpple Seal and   soon You will find out :) .
+* Discount on all Jumpple paid plans -  Put the Jumpple Seal and   soon You will find out :) .
 
-= How can I add more WebSites to my Jumpple account ? =
+= How can I add more WebSites to monitor in my Jumpple account ? =
 
 * Log in to your jumpple account www.jumpple.com and press "UPGRADE" on the top-right corner - choose one of the relevant plans.
 
+= What is the "Jumpple global monitor service"
+
+* The "Jumpple global monitor service" - we monitor popular sites and if something is wrong , we 
+  notify users via our Facebook and twitter account.
+  
 = I'm getting "The address is already in use..."
 
-That means that we already have you registration details
+That means that we already have you registration details in the monitor center
 Please contact us at support@jumpple.com and we will guide you through the process.
 
 = Where can I find news and updates? =
@@ -138,6 +146,7 @@ http://twitter.com/Jumpple
 == Screenshots ==
 
 1. Jumpple dashboard settings.
+2. Account look - here you can change monitor settings.
 
 == Requirements ==
 
