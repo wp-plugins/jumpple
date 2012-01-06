@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site scan, monitor tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, url scan, analytics, blog, backup, realtime, notification, scan, authorization, hack, Adwords, spam, protect, captcha, anti-spam, email, wpmu, form, fast secure, buddypress,  wordpressmu, notification, affiliate, landing page, authentication, comment, comments, posts, post, e-Commerce, advertising, SEO, plugin, content, links, iPhone, iPad, Android, page, sidebar, permissions, seal,
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site scan, monitor tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, url scan, analytics, blog, backup, realtime, notification, scan, authorization, hack, Adwords, spam, protect, captcha, anti-spam, email, wpmu, form, fast secure, buddypress,  wordpressmu, notification, affiliate, landing page, authentication, comment, comments, posts, post, e-Commerce, advertising, SEO, plugin, content, links, iPhone, iPad, Android, page, sidebar, permissions, image, google,
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: 1.0.1
