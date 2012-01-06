@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link:
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site scan, monitor tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, url scan, analytics, blog, backup, realtime, notification, scan, authorization, hack, Adwords, spam, protect, captcha, anti-spam, email, wpmu, form, fast secure, buddypress,  wordpressmu, notification, affiliate, landing page, authentication, comment, comments, posts, post, e-Commerce, advertising, SEO, plugin, content, links, iPhone, iPad, Android, page, sidebar, permissions, seal,
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site scan, monitor tool, all in one, hits, tracking, visitor, security, widget, maintenance, unavailable, construction, admin, administration, url scan, analytics, blog, backup, realtime, notification, scan, authorization, hack, Adwords, spam, protect, captcha, anti-spam, email, wpmu, form, fast secure, buddypress,  wordpressmu, notification, affiliate, landing page, authentication, comment, comments, posts, post, e-Commerce, advertising, SEO, plugin, content, links, iPhone, iPad, Android, page, sidebar, permissions, image, google,
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: 1.0.1
@@ -12,6 +12,7 @@ Stable tag: 1.0.1
 = General Information =
 
 Ultimate Wordpress monitor plugin - monitor, scan and seal widget!
+
 Get the most advanced protection for your website now with Jumpple. With a click of a button your website, blog or online store are instantly monitored. Receive real time notifications if something is wrong with your website.
 It's a free and easy way to protect your online presence.
 (we scan and monitor your website 24/7!)
