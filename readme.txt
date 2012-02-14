@@ -1,8 +1,8 @@
 === Jumpple - Monitor and scan Your website ===
 Contributors: Jumpple.com
-Donate link:
+Donate link: http://www.jumpple.com
 Author URI: http://www.jumpple.com
-Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, web site scan, monitor tool, security, admin, administration, url scan, realtime, notification, scan, hack, Adwords, protect, wordpressmu, notification, affiliate, e-Commerce, content, 
+Tags: monitor, stats, uptime, webmaster, monitoring, web monitor, site monitor, widget, plugin, security, admin, administration, authentication, realtime,  automatic, scan, hack, Adwords, performance, wordpressmu, notification, affiliate, e-Commerce, content, 
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: 1.0.1
@@ -33,6 +33,7 @@ That's it. You are protected.
 * NO INSTALLATION REQUIRED: Jumpple does not require any installation or special integration. All you need to provide is your website URL.
 
 * INSTANT PROTECTION: Your website is monitored as soon as you register.
+Protect your posts,comments,images and pages.
 (You will get an email notification if something is wrong)
 
 * INCREASE UPTIME AND CONVERSION: With real time notifications you make sure your website is ALWAYS ON and your users get the best possible experience.
