@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: Jumpple
-Description: Jumpple is your website monitor - this plugin will notify you if something is wrong with your site. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
-Version: 1.0.0
+Description: Jumpple will keep an eye on your website, 24 hours a day seven days a week, whether you are in a meeting, on a trip or even when you're asleep. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
+Version: 1.0.1
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: 1
@@ -11,7 +11,7 @@ Stable tag: 1
 add_action( 'init', 'jumpple_init' );
 
 function jumpple_init()
-{	
+{
 	add_filter( 'plugin_action_links', 'jumpple_actions', 10, 2 );
 	
 	add_action( 'wp_footer', 'jumpple_badge' );
@@ -100,17 +100,33 @@ function jumpple_options() {
 
 <?
 if ( isset( $_POST['send'] ) ) {
-	$data_sent = 'json=1&email=' . urlencode( $_POST[ 'email' ] ) . '&url=' . urlencode( $_POST[ 'url' ] ) . '&source=wp-qrd';
+	$api_app_id = '10004';
+	$api_app_secret = 'e5c5acaf5a6720b137e80a496e7934bd';
+	$api_url = 'https://www.jumpple.com/api/user/quickSignup';
+
+	$params = array (
+		'_app_id' => $api_app_id,
+		'_app_secret' => $api_app_secret,
+		'_response_format' => 'json',
+		'user_email' => $_POST['email'],
+		'user_domain' => $_POST['url'],
+	);
+
+	$data_sent = '';
+	foreach($params as $name => $value) {
+		$data_sent .= (empty($data_sent) ? '' : '&') . $name . '=' . urlencode($value);
+	}
 
 	$ch = curl_init();
-	curl_setopt( $ch, CURLOPT_URL, 'https://www.jumpple.com/user/quickRide' );
-	curl_setopt( $ch, CURLOPT_POST, count( $data_sent ) );
-	curl_setopt( $ch, CURLOPT_POSTFIELDS, $data_sent );
-	curl_setopt( $ch, CURLOPT_RETURNTRANSFER, 1 );
+	curl_setopt($ch, CURLOPT_URL, $api_url);
+	curl_setopt($ch, CURLOPT_POST, true);
+	curl_setopt($ch, CURLOPT_POSTFIELDS, $data_sent);
+	curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
 	$result = curl_exec( $ch );
 	curl_close( $ch );
 
 	$response_json = json_decode( $result );
+
 
 	if ( $response_json && $response_json->status == true ) {
 		update_option( 'jumpple-registered', true );
@@ -122,13 +138,14 @@ if ( isset( $_POST['send'] ) ) {
 					<li>Don't forget to manage your account, continue to <a href="http://www.jumpple.com/" target="_blank">http://www.Jumpple.com</a></li>
 				</ul>
 			</div>
-			<script type="text/javascript">
+			<script type="text/javascript" language="javascript">
 				jQuery( 'div.error.jmpl' ).hide();
 			</script>
 <?php
 		jumpple_badge_option();
 		return false;
-	} else { ?>
+	} else {
+?>
 		<div id="error">
 			<ul>
 <?php
@@ -149,6 +166,7 @@ if ( isset( $_POST['send'] ) ) {
 <p>Thank you for using Jumpple! protect your website in 60 seconds, register now!</p>
 
 <form method="post" id="register">
+	<input type="hidden" name="send" value="1" />
 	<div>
 		<label for="email">E-mail</label>
 		<input id="email" name="email" type="text" />
@@ -162,7 +180,7 @@ if ( isset( $_POST['send'] ) ) {
 	</div>
     
     <p class="submit">
-		<input type="submit" class="button-primary" name="send" value="<?php _e('Register') ?>" />
+		<input type="submit" id="register_submit" class="button-primary" name="send" value="<?php _e('Register') ?>" />
     </p>
 
 </form>
@@ -184,13 +202,14 @@ jQuery(document).ready(function($) {
 	url.blur(validateurl);
 	email.blur(validateEmail);
 
-	/*On Submitting
+	// On Submitting
 	form.submit(function(){
-		if( validateurl() & validateEmail() )
-			return true
-		else
-			return false;
-	});*/
+		$("#register_submit").attr('disabled', 'disabled');
+	//	if( validateurl() & validateEmail() )
+	//		return true
+	//	else
+	//		return false;
+	});
 	
 	//validation functions
 	function validateEmail(){
@@ -335,3 +354,4 @@ your website is monitored and protected by Jumpple!, This adds a proven sense of
 <?php
 	jumpple_footer();
 }
+
