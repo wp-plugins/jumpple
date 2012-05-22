@@ -1,4 +1,4 @@
-=== Jumpple Security - Monitor and scan Your website ===
+=== Jumpple Security ===
 Contributors: Jumpple.com
 Donate link: http://www.jumpple.com
 Author URI: http://www.jumpple.com
