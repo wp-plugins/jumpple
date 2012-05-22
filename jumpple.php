@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Jumpple
-Description: Jumpple is your website monitor - this plugin will notify you if something is wrong with your site. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
+Description: Jumpple will keep an eye on your website, 24 hours a day seven days a week, whether you are in a meeting, on a trip or even when you're asleep. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
 Version: 1.0.1
 Requires at least: 2.7
 Tested up to: 3.2
@@ -354,3 +354,4 @@ your website is monitored and protected by Jumpple!, This adds a proven sense of
 <?php
 	jumpple_footer();
 }
+
