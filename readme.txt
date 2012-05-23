@@ -2,7 +2,7 @@
 Contributors: Jumpple.com
 Donate link: http://www.jumpple.com
 Author URI: http://www.jumpple.com
-Tags: security, secure, monitor, protection, uptime, anti-hack, hack, attack, scan, widget, exploit, automatic, admin, bodyguard, authentication, patrol, automatic, performance, wordpressmu, notification, affiliate, e-Commerce, content, 
+Tags: security, secure, monitor, protection, uptime, anti-hack, hack, firewall, scan, exploit, Tweaks, wordpress security, Anti Virus, notifications, securty, 
 Requires at least: 2.7
 Tested up to: 3.2
 Stable tag: 1.0.1
