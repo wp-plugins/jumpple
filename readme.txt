@@ -8,7 +8,7 @@ Tested up to: 3.2
 Stable tag: 1.0.1
 
 
-Jumpple Security web monitor service, protects your website against technical, content or any other issues that may
+Jumpple protects your website against technical, content or any other issues that may
 occur.
 
 == Description ==
