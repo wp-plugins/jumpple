@@ -169,3 +169,7 @@ Wordpress >= 2.7
 = 1.0 =
 
 *Initial version.
+
+= 1.0.1 =
+* Security tightened even more
+* Small bugfixes
