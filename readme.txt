@@ -1,15 +1,12 @@
 === Jumpple Security ===
-Contributors: Jumpple.com
-Donate link: http://www.jumpple.com
-Author URI: http://www.jumpple.com
-Tags: security, secure, monitor, protection, uptime, anti-hack, hack, firewall, scan, exploit, Tweaks, wordpress security, Anti Virus, notifications, securty, 
-Requires at least: 2.7
-Tested up to: 3.2
+Contributors: Jumpple
+Version: 1.0.1
+Tags: security,secure,monitor,protection,uptime,anti-hack,hack,firewall,scan,exploit,Tweaks,wordpress security,Anti Virus,notifications,securty, 
+Requires at least: 3.0.0
+Tested up to: 3.3.2
 Stable tag: 1.0.1
 
-
-Jumpple protects your website against technical, content or any other issues that may
-occur.
+Jumpple protects your website against technical, content or any other issues that may occur.
 
 == Description ==
 
@@ -58,14 +55,14 @@ Protect your posts, comments, images and pages.
 
 * AND MUCH MORE: Learn more about Jumpple security web monitoring service and additional features at 
 
-http://jumpple.com/tour
+[Jumpple tour](http://jumpple.com/tour)
 
 
-For news and updates follow us on Facebook and Twitter: 
+If you have any questions, please feel free to contact us using our Jumpple:
 
-http://facebook.com/Jumpple
+[Facebook Fan page](http://facebook.com/Jumpple)
 
-http://twitter.com/Jumpple
+[Twitter](http://twitter.com/Jumpple)
 
 == Installation ==
 
@@ -91,7 +88,7 @@ http://twitter.com/Jumpple
 1. Check your email for login details to your Jumpple account.
 
 
-1. Log in to your jummple.com security account to set up notifications and manage your account.
+1. Log in to your [Jumpple security account](http://www.jummple.com) to set up notifications and manage your account.
 
 
 
@@ -111,7 +108,7 @@ Jumpple security supports the following notifications:
 * FREE Email.
 * Google talk.
 * Skype.
-* FREE iPhone app (http://itunes.apple.com/il/app/jumpple/id449833948?mt=8).
+* [FREE iPhone app](http://itunes.apple.com/il/app/jumpple/id449833948?mt=8).
 * SMS messages (see our paid plans).
 
 = How do I set up notifications ? =
@@ -146,30 +143,34 @@ Please contact us at support@jumpple.com and we will guide you through the proce
 
 * For news and updates follow us on Facebook and Twitter: 
 
-http://facebook.com/Jumpple
+[Facebook Fan page](http://facebook.com/Jumpple)
 
-http://twitter.com/Jumpple
+[Twitter](http://twitter.com/Jumpple)
+
+= Where can I ask questions, use other users knowledge? =
+
+If you have any questions, please feel free to contact us using our [Facebook Fan page](http://facebook.com/Jumpple).
 
 
 == Screenshots ==
 
-1. Jumpple security dashboard settings.
-2. Jumpple security account look - here you can change the monitor settings.
+1. Your Jumpple security dashboard settings.
+2. Your Jumpple security account looks like - here you can change the monitor settings.
 
-== Requirements ==
-
-Wordpress >= 2.7
 
 == Changelog ==
 
 = 1.0 =
 * (26 Jun 2011) Initial Release
 
-== Upgrade Notice ==
-= 1.0 =
-
-*Initial version.
-
 = 1.0.1 =
-* Security tightened even more
-* Small bugfixes
+* Bugs fixed.
+* Additional security monitor support
+ 
+== Upgrade Notice ==
+
+* Easier to install
+* Error on "address is already in use..." improved.
+* E-mail verifications on SSL.
+* Security tightened up.
+
