@@ -1,5 +1,5 @@
 === Jumpple Security ===
-Contributors: Jumpple
+Contributors: jumpple
 Version: 1.0.1
 Tags: security,secure,monitor,protection,uptime,anti-hack,hack,firewall,scan,exploit,Tweaks,wordpress security,Anti Virus,notifications,securty, 
 Requires at least: 3.0.0
