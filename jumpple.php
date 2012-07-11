@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: Jumpple
-Description: Jumpple will keep an eye on your website, 24 hours a day seven days a week, whether you are in a meeting, on a trip or even when you're asleep. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
+Plugin Name: Jumpple Security
+Plugin URI: http://www.Jumpple.com
+Description: Jumpple will keep an eye on your website , 24 hours a day seven days a week, whether you are in a meeting, on a trip or even when you're asleep. See also: <a href="http://www.jumpple.com" target="_blank">www.jumpple.com</a> | <a href="http://www.jumpple.com/faq/" target="_blank">FAQ</a> 
+Author: jumpple
 Version: 1.0.1
-Requires at least: 2.7
-Tested up to: 3.2
-Stable tag: 1
+Author URI: http://www.Jumpple.com
 */
 
 add_action( 'init', 'jumpple_init' );
