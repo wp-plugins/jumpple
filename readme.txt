@@ -1,9 +1,9 @@
 === Jumpple Security ===
 Contributors: jumpple
 Version: 1.0.1
-Tags: security,secure,monitor,protection,uptime,anti-hack,hack,firewall,scan,exploit,Tweaks,wordpress security,Anti Virus,notifications,securty, 
+Tags: security,secure,scan,monitor,protection,uptime,anti-hack,hack,firewall,scan,exploit,wordpress security,Anti Virus,antivirus,notifications,securty, 
 Requires at least: 3.0.0
-Tested up to: 3.3.2
+Tested up to: 3.4.1
 Stable tag: 1.0.1
 
 Jumpple protects your website against technical, content or any other issues that may occur.
