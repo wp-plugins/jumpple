@@ -1,176 +1,293 @@
-=== Jumpple Security ===
-Contributors: jumpple
-Version: 1.0.1
-Tags: security,secure,monitor,protection,uptime,anti-hack,hack,firewall,scan,exploit,Tweaks,wordpress security,Anti Virus,notifications,securty, 
-Requires at least: 3.0.0
+=== Sweet Captcha ===
+Contributors: SweetCaptcha
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KJ9FG7STBXQ76
+Tags: captcha, sweetcaptcha, sweet captcha, captsha, anti-spam, kaptcha, comment, catcha, registration, registration captcha, security, captcha for contact form 7, capatcha, kapcha, plugin, buddypress captcha, captcha protection, spam for posts, images captcha, capch, captcha comics, php captcha, wordpress captcha, contact form 7 captcha
+Requires at least: 3.0
 Tested up to: 4.2.2
-Stable tag: 1.0.1
+Stable tag: trunk
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Jumpple protects your website against technical, content or any other issues that may occur.
+Protect your website from spam using our human friendly, fun and designed Captcha plugin
 
 == Description ==
 
-= Why choose Jumpple security plugin? =
+Sweet Captcha is a free image captcha service putting your users and your website at first priority. Our CAPTCHA protects your website from spam, using a fun and illustrated widget! No typing is required, our Captcha is fully interactive, sweet and easy to use! Sweet Captcha is fully integrated as a contact form 7 captcha, comments captcha, log-in captcha, registration captcha, password recovery captcha, custom contact form and more. You can customize your captcha language translation and theme, to have your users interact with any captcha in a fun and playful manner.
 
-You know how it feels when someone tells you that your website is not working; you browse your website just to find out that its true...
+<a href="http://www.sweetcaptcha.com/?ref=wordpress-plugin" target="_blank">See a live demo</a>
 
-Why not get full notifications wherever you are, when something goes wrong with your website?
+* <a href="http://wordpress.org/plugins/sweetcaptcha-revolutionary-free-captcha-service/faq/">FAQ</a>
+* <a href="http://wordpress.org/support/plugin/sweetcaptcha-revolutionary-free-captcha-service">Support</a>
+* <a href="http://sweetcaptcha.com/faq" target="_blank">FAQ in our website</a>
 
-Jumpple Wordpress security plugin - monitor, scan and seal widget!
+= Features =
 
-Get the most security advanced protection for your website now with Jumpple. Receive real time notifications if something is wrong with your website.
-It's an easy way to protect and secure your online presence.
+* Fun and illustrated, easy and playful for human to solve
+* Choose a theme suitable for your website, or just play it random
+* Sweet Captcha translates to 17 different languages
+* Full mobile support! Tested for iPhones, iPads and Android devices
+* Cross browser support, tested for all modern web browses
 
-= How Jumpple security works in 3 easy steps: =
+= Recommended Plugins =
 
-1. Register with your website and email.
-2. Check your email for your account details.
-3. Go to Jumpple.com and choose your notification types.
+The author of Sweet Captcha also recommends the following plugins:
 
-That's it. You are protected.
+* <a href="http://wordpress.org/plugins/contact-form-7/" target="_blank">Contact form 7</a> - Contact Form 7 can manage multiple contact forms, plus you can customize the form and the mail contents flexibly with simple markup. The form supports Ajax-powered submitting, Sweet Captcha, Akismet spam filtering and so on.
 
-= WHY USE JUMPPLE SECURITY VS. OTHER SOLUTIONS: =
+= WordPress Integration =
 
-* FREE and easy SIGNUP: Free sign up for a Jumpple security web monitoring account.
+* Sweet Captcha for Comment form
+* Sweet Captcha for Registration form 
+* Sweet Captcha for Login form
+* Sweet Captcha for Lost password form
+* Sweet Captcha for Contact Form 7
+* Sweet Captcha Contact Form
 
-* MULTIPLE SECURITY NOTIFICATION OPTIONS: Choose how you want to be notified, Jumpple supports: Email, SMS, Skype, Google chat and using the Jumpple iPhone app.
+= Themes and Designs =
 
-* SECURITY SEAL: Do you want your users to feel safe when browsing through your site?
-Jumpple Security Seal provides better conversion! 
+* Sweet Captcha "Fun" theme
+* Sweet Captcha "Music" theme
+* Sweet Captcha "Movies" theme
+* Sweet Captcha "Shopping" theme
+* Sweet Captcha "Food" theme
+* Sweet Captcha "Wedding" theme
+* Sweet Captcha "Games" theme
+* Sweet Captcha "Sports" theme
+* Sweet Captcha "Animals" theme
+* Sweet Captcha "Finance" theme
+* Sweet Captcha "Random" theme
 
-* INSTANT SECURITY: Your website is monitored as soon as you install.
-Protect your posts, comments, images and pages.
+= Translations = 
 
-* INCREASE SECURITY, UPTIME AND CONVERSION: With real time notifications you make sure your website is ALWAYS ON and your users get the best possible experience.
+Sweet Captcha was translated thanks to the help of it's users and community. 
+If you like to contribute your translations please contact us at support@sweetcaptcha.com
 
-* MONITOR & SCAN SOCIAL NETWORKS: Use your Jumpple account to monitor & scan all your online social presence. Jumpple security can monitor your Facebook page or Twitter page.
+* English Sweet Captcha translation
+* German Sweet Captcha translation
+* French Sweet Captcha translation
+* Dutch Sweet Captcha translation
+* Portuguese Sweet Captcha translation
+* Russian Sweet Captcha translation
+* Swedish Sweet Captcha translation
+* Czech Sweet Captcha translation
+* Hebrew Sweet Captcha translation
+* Slovak Sweet Captcha translation
+* Arabic Sweet Captcha translation
+* Italian Sweet Captcha translation
+* Romanian Sweet Captcha translation
+* Spanish Sweet Captcha translation
+* Polish Sweet Captcha translation
+* Chinese Sweet Captcha translation
+* Korean Sweet Captcha translation
+* Norwegian Sweet Captcha translation
+* Bulgarian Sweet Captcha translation
+* Danish Sweet Captcha translation
+* Finnish Sweet Captcha translation
+* Greek Sweet Captcha translation
+* Bulgarian Sweet Captcha translation
+* Turkish Sweet Captcha translation
+* Hungarian Sweet Captcha translation
+* Lithuanian Sweet Captcha translation
+* Slovenian Sweet Captcha translation
+* Bahasa Indonesia Sweet Captcha translation
 
-* MARKETING CAMPAIGNS: Are you an affiliate? Are you using SEO? PPC? Landing pages? Jumpple security Saves You Money! Get instant notifications if one of your landing pages or mini sites does down. 
+= IMPORTANT =
 
-* ECOMMERCE PROTECTION: Your peace of mind that we are keeping an eye on your online business. Your security for your business.
+Follow the [installation](http://wordpress.org/plugins/sweetcaptcha-revolutionary-free-captcha-service/installation/) instructions to setup Sweet Captcha in your website
 
-* SECURITY SCANNER: Configure how often the Jumpple security scanner checks your site on your Jumpple security dashboard.
-
-* NO INSTALLATION REQUIRED: Jumpple security does not require any installation or special integration. All you need to provide is your website URL, let our security scanner do the rest.
-
-* AND MUCH MORE: Learn more about Jumpple security web monitoring service and additional features at 
-
-[Jumpple tour](http://jumpple.com/tour)
-
-
-If you have any questions, please feel free to contact us using our Jumpple:
-
-[Facebook Fan page](http://facebook.com/Jumpple)
-
-[Twitter](http://twitter.com/Jumpple)
+For Sweet Captcha news and updates follow us on [Facebook](http://facebook.com/sweetCaptcha) and [Twitter](http://twitter.com/sweetcaptcha) 
 
 == Installation ==
 
-1. Download the Jumpple security zip file. From your Wordpress dashboard->Plugins->Add new->Upload, choose the Jumpple zip file, Press "Install now".
-
-
-1. Or from your dashboard go to Plugins->Add new->Search for "Jumpple", and press Install now.
-
-
-1. Activate the plugin through the Plugins menu in WordPress
-
-
-1. Open the configuration panel for Jumpple on your WordPress Dashboard under Settings. (See screen shot.)
-
-
-1. Register with your email address.(See screen shot.)
-
-
-1. You can choose your Jumpple security Seal settings.
-(see FAQ about the Jumpple Seal)
-
- 
-1. Check your email for login details to your Jumpple account.
-
-
-1. Log in to your [Jumpple security account](http://www.jummple.com) to set up notifications and manage your account.
-
-
+1. Download the Sweet Captcha plugin or install it directly from your dashboard (just search "sweet captcha")
+2. Install and **activate** Sweet Captcha
+3. Go to Sweet Captcha settings and complete the registration
+4. Your Sweet Captcha is ready to go!
 
 == Frequently Asked Questions ==
 
-= What is Jumpple security? =
+= What is Captcha? =
 
-* Jumpple security is an online web monitor & scan service. It monitors your website or blog to make sure the site is up and running. Jumpple security does not require any installation or special integration. In fact, all you need to do to get started is to provide your website address URL - we do the rest.
+A Captcha is a type of challenge-response test used in computing as an attempt to ensure that the response is generated by a person. The term Captcha is an acronym based on the word "capture" and standing for Completely Automated Public Turing test to tell Computers and Humans Apart.
 
-= Jumpple security, Who is it for? =
+= What is the difference between Sweet Captcha and other Captchas? =
 
-* Jumpple security is intended for anyone who owns a website, no matter big or small. Whether it is a blog, online store or corporate website, Jumpple security gives you the peace of mind that comes with knowing that someone is constantly watching your website.
-= How does Jumpple security alert me ? =
+Sweet Captcha is designed to be easy for users and complex for spammers!
+Enjoy a designed, illustrated Captcha and forget about the unattractive skewed words and digits you are used to
 
-Jumpple security supports the following notifications:
+= Does Sweet Captcha works with Flash? =
 
-* FREE Email.
-* Google talk.
-* Skype.
-* [FREE iPhone app](http://itunes.apple.com/il/app/jumpple/id449833948?mt=8).
-* SMS messages (see our paid plans).
+No! Sweet Captcha doesn't require flash, which makes is compatible with PCs, mobiles, tablets and more
 
-= How do I set up notifications ? =
+= What browsers supports your Captcha? =
 
-* Log in to your Jumpple security account www.jumpple.com ,change the monitor or security notifications settings as you like.
-  (see screenshot-2)
+Sweet Captcha works in all modern browsers such as Chrome, Internet Explorer, Firefox, Safari, Opera and more
 
-= What is the Jumpple security Seal ? =
+= Is Sweet Captcha FREE? =
 
-* The Jumpple security seal displays a small security seal on your website letting your users know your website is monitored, scaned and secured by Jumpple.
+Yes! 
 
-= Why do I need the Jumpple security Seal ? =
+= Does Sweet Captcha run on mobile devices ? =
 
-* Let the users know your website is monitored and secured by Jumpple!
-* Make your users feel more secure and trust your website.
-* Increase Sales!
+Sure, Sweet Captcha runs on iPhones, iPads and Android devices
 
-= How can I add more Websites to my Jumpple security account? =
+= Where can I find a sample of your Captcha? =
 
-* Log in to your Jumpple security account at www.jumpple.com and press "UPGRADE" on the top-right corner - choose one of the relevant plans.
+Check out our [screenshots](http://wordpress.org/extend/plugins/sweetcaptcha-revolutionary-free-captcha-service/screenshots/) or visit [our website](http://www.sweetcaptcha.com) to try Sweet Captcha yourself.
 
-= What is the "Jumpple security global monitor service"
+= Can I choose a language for my Sweet Captcha? =
 
-* The "Jumpple security global monitor service" - we monitor popular sites and if something is wrong , we notify users via our Facebook and twitter account.
-  
-= I'm getting "The address is already in use..."
+Yes! When you install the Sweet Captcha plugin, choose your desire language from more than 17 languages.
 
-That means that we already have your registration details in the monitor center.
-Please contact us at support@jumpple.com and we will guide you through the process.
+= I cannot find my language on Sweet Captcha translations. What can I do? =
 
-= Where can I find news and updates? =
+All Sweet Captcha translations are contributed by users just like you ;-)
+So, if you want to translate Sweet CATPCHA to your language, just drop us a line at support@sweetcaptcha.com
 
-* For news and updates follow us on Facebook and Twitter: 
+= Do you have any other questions? =
 
-[Facebook Fan page](http://facebook.com/Jumpple)
-
-[Twitter](http://twitter.com/Jumpple)
-
-= Where can I ask questions, use other users knowledge? =
-
-If you have any questions, please feel free to contact us using our [Facebook Fan page](http://facebook.com/Jumpple).
-
+Feel free to drop us a line at support@sweetcaptcha.com
 
 == Screenshots ==
 
-1. Your Jumpple security dashboard settings.
-2. Your Jumpple security account looks like - here you can change the monitor settings.
+1. Sweet Captcha on registration form
+2. Sweet Captcha example
+3. Sweet Captcha exmaple
+4. Sweet Captcha on comment form
+5. Sweet Captcha on contact form
 
+== Requirements ==
+
+Wordpress >= 2.8, cURL extension
 
 == Changelog ==
 
-= 1.0 =
-* (26 Jun 2011) Initial Release
+= 3.1.1 =
+* Bugfix: issues with the integrated contact form, resolved.
 
-= 1.0.1 =
-* Bugs fixed.
-* Additional security monitor support
- 
+= 3.1.0 =
+* Bugfix: issues with contact form 7, didn't block spam, resolved.
+
+= 3.0.9 =
+* Compatible with WordPress 4.0.1
+* NEW: sweet Captcha Hungarian language support added to the plug-in.
+* NEW: sweet Captcha Turkish language support added to the plug-in.
+* NEW: sweet Captcha Lithuanian language support added to the plug-in.
+* NEW: sweet Captcha Bahasa Indonesia language support added to the plug-in.
+
+= 3.0.8 =
+* Compatible with WordPress 3.9.1
+* NEW: sweet Captcha Slovenian language support added to the plug-in.
+* NEW: Gravity Forms support added to the sweet Captcha plug-in.
+* NEW: Buddypress registration support added to the sweet Captcha plug-in.
+* Feature: sweet Captcha will not block forms unless it's fully registered and integrated.
+* Bugfix: sweet Captcha Donation button has been fixed.
+
+= 3.0.6 =
+* Compatible with WordPress 3.8
+* Compatible with Contact Form 7 version 3.6
+
+= 3.0.5 =
+* Re-enabling login form Captcha due to users requests
+* Bug fix for user registrations
+* Style fix for user registrations
+* General bug fixes
+
+= 3.0.4 =
+* NEW: Mobile and tablets support - will show and handle "click" interaction instead of "drag".
+* NEW: Sweet Captcha Danish language support added to the plug-in.
+* Feature: Native HTML5 drag-n-drop support (Removing jQuery-UI dependency and avoiding plug-ins conflicts). 
+* Feature: Improved security. 
+* Bugfix: Log on sweet Captcha has been disabled. 
+* Bugfix: Improved javascript behaviour, resolving conflicts. 
+
+= 3.0.3 =
+* Bugfix : HTTPS support for Sweet Captcha is now fixed.
+* Bugfix : Donation button in the settings - fixed. (was offsite)
+
+= 3.0.2 =
+* NEW : Sweet Captcha Animals category added to the plugin.
+* NEW : Sweet Captcha Finance category added to the plugin.
+* NEW : Sweet Captcha Sports category added to the plugin.
+* NEW : Sweet Captcha Games category added to the plugin.
+
+= 3.0.1 =
+* Bugfix : Sweet Captcha Ajax based conflicts with Themes and other plugins - fixed.
+* Feature: Wordpress 3.6 compatibility for Sweet Captcha .
+
+= 2.4.3.9 =
+* Feature: Added HTTPS support to Sweet Captcha sites(SSL).
+
+= 2.4.3.8 =
+* Feature: Added website category and website gender fields support.
+* Feature: Sweet Captcha Bulgarian language support added to the plugin.
+
+= 2.4.3.7 =
+* Bugfix : Contact form 7 new version problem - fixed.
+* Feature: Added integrated Sweet Form.
+
+= 2.4.3.6 =
+* Bugfix : Plugins Conflict - fixed.
+
+= 2.4.3.5 =
+* Bugfix : Login and lost password issues - fixed.
+
+= 2.4.3.5 =
+Bugfix : Sweet Captcha is now compatible to Wordpress 3.5.
+
+= 2.4.3.4 =
+* Bugfix : Sweet Captcha bug, "no such a user" after pressing "save changes" - solved.
+
+= 2.4.3.3 =
+* Bugfix : Sweet Captcha Reset button is now working.
+* Bugfix: Buddypress, Sweet Captcha remove from above log in upper right side
+
+= 2.4.3 =
+* Bugfix : Sweet Captcha PHP error on Dashboard, 4.2.1 upgrade.
+
+= 2.4.2 =
+* Bugfix : Sweet Captcha PHP error on Dashboard.
+
+= 2.4.1 =
+* NEW : Sweet Captcha Italian language support added to the plugin.
+* Bugfix : Updated all Sweet Captcha functionality for wordpress 3.4.2.
+
+= 1.0.8 =
+* Bugfix : theme issues plus ajax conflicts - Sweet Captcha bug was fixed.
+* Bugfix : "domain not regitered" issues - Sweet Captchabug was fixed. 
+
+= 1.0.7 =
+* Bugfix : theme issues plus ajax conflicts - Sweet Captcha bug was fixed.
+* Bugfix : "domain not regitered" issues - Sweet Captcha bug was fixed.
+
+= 1.0.6 =
+* NEW : Sweet Captcha French language support added to the plugin.
+* Bugfix : CSS issues on black Sweet Captcha bug was fixed.
+
+= 1.0.5 =
+* NEW : added Sweet Captcha language translation support.
+
+= 1.0 =
+* Initial Sweet Captcha version
+
 == Upgrade Notice ==
 
-* Easier to install
-* Error on "address is already in use..." improved.
-* E-mail verifications on SSL.
-* Security tightened up.
+= 3.0.8 =
+Compatible with WordPress v3.9.1, Gravity Forms and Buddypress support
 
+= 3.0.6 =
+Compatible with WordPress v3.8 and Contact Form 7 v3.6
+
+= 3.0.5 =
+Bugs and styles fixes, registration form fix, login form re-enabled, mobile compatible
+
+= 2.4.1 =
+* NEW added Sweet Captcha language support.
+* Stable Sweet Captcha with WordPress 3.4.1
+* Security tightened up even more on Sweet Captcha
+
+= 1.0.8 =
+* NEW added Sweet Captcha language support.
+
+= 1.0.7 =
+Current Sweet Captcha version.
